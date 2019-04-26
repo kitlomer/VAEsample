@@ -6,3 +6,9 @@ https://github.com/oduerr/dl_tutorial/blob/master/tensorflow/vae/vae_demo-2D.ipy
 
 
 https://www.youtube.com/watch?v=uaaqyVS9-rM
+
+
+
+https://mp.weixin.qq.com/s/9lNWkEEOk5vEkJ1f840zxA?
+
+
